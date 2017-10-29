@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SnackBar
+comment0.text=\r\n\ SnackBar\ class\ represents\ a\ Snack-bar\ which\ has\ a\ Snack\ Machine\ of\ crisps\ \r\n\ and\ a\ number\ of\ hungry\ students.\r\n\ \r\n\ @author\ (Adenuga\ Banjoko)\ \r\n\ @version\ 1\ (21/11/2016)\r\n
+comment1.params=noOfStudents\ noOfCrisps\ price
+comment1.target=SnackBar(int,\ int,\ int)
+comment1.text=\r\n\ Creates\ number\ of\ students,\ crisps\ and\ the\ cost\ of\ packets.\r\n\ @param\ noOfStudents\ \ number\ of\ students\ in\ SnackBar.\r\n\ @param\ noOfCrisps\ \ number\ of\ PackOfCrisps.\r\n\ @param\ price\ \ cost\ of\ crisps\ from\ machine.\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ randomFlavour()
+comment2.text=\r\n\ Picks\ Random\ crisps\ flavours.\ \r\n\ @return\ \ a\ flavour\ of\ crisps\ from\ the\ string\ array.\ \r\n
+comment3.params=
+comment3.target=void\ describe()
+comment3.text=\r\n\ Prints\ amount\ of\ students\ &\ number\ of\ crisps\ in\ SnackBar\ .\ \r\n
+comment4.params=nSteps
+comment4.target=void\ runSnackBar(int)
+comment4.text=\r\n\ Loops\ description\ of\ Snack\ Bar\ in\ number\ of\ steps.\r\n\ @param\ nSteps\ \ \ \ Amount\ of\ times\ the\ method\ is\ intended\ to\ run\ \ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ method,\ this\ can\ stand\ alone\ does\ not\ need\ BlueJ\ to\ run.\ \r\n\ Allows\ whole\ package\ execute.\ \r\n\ @param\ String[]args\ \ Command\ line\ arguement,\ stores\ strings\ in\ its\ arrary.\r\n
+numComments=6

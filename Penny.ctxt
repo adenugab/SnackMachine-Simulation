@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Penny
+comment0.text=\r\n\ The\ class\ of\ Penny,\ requires\ no\ functionality\ it\ represents\ the\ penny\ object\ used\ to\ buy\ crisps\ from\ Snack\ Machine.\r\n\r\n\ @author\ (Adenuga\ Banjoko)\ \r\n\ @version\ 1\ (15/11/2016)\r\n
+comment1.params=
+comment1.target=Penny()
+comment1.text=\r\n\ Empty\ constructor\ represnting\ penny\ object.\r\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pocket
+comment0.text=\r\n\ Holds\ an\ amount\ of\ Penny\ objects\ in\ the\ Students\ pocket.\r\n\ \r\n\ @author\ (Adenuga\ Banjoko)\ \r\n\ @version\ 1\ (15/11/2016)\r\n
+comment1.params=pocketSize
+comment1.target=Pocket(int)
+comment1.text=\r\n\ Creates\ a\ new\ Pocket,\ fills\ it\ with\ a\ set\ number\ of\ Penny\ objects.\r\n\ @param\ pocketSize\ \ \ \ Creates\ an\ amount\ of\ pennies\ in\ students\ pocket.\r\n
+comment2.params=
+comment2.target=int\ pennyCount()
+comment2.text=\r\n\ Counts\ how\ many\ pennies\ are\ in\ the\ pocket.\r\n\ @return\ \ An\ integer\ amount\ of\ Penny\ objects\ in\ pocket.\r\n
+comment3.params=
+comment3.target=Penny\ removePenny()
+comment3.text=\r\n\ Removes\ one\ penny\ from\ pocket\ until\ there\ are\ no\ pennies\ left\ in\ pocket.\ \r\n\ @return\ \ If\ at\ least\ one\ Penny\ objects\ in\ the\ Pocket,\ return\ one\ penny\ object.\ \r\n\ \ \ \ \ \ \ \ \ \ Else\ return\ null.\ \r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Class\ represents\ a\ Student,\ buys\ a\ pack\ of\ crisps\ and\ informs\ user\ \r\n\ of\ status\ of\ the\ pack\ of\ crisps.\r\n\ \r\n\ @author\ (Adenuga\ Banjoko)\ \r\n\ @version\ 1\ (17/11/2016)\r\n
+comment1.params=flavour\ machine
+comment1.target=Student(java.lang.String,\ SnackMachine)
+comment1.text=\r\n\ Creates\ a\ Student\ with\ pocket\ full\ of\ money.\r\n\ @param\ flavour\ \ \ String\ type\ of\ favourite\ flavour\ of\ crisps.\ \ \r\n\ @param\ machine\ \ \ Snack\ Machine\ type\ of\ favourite\ flavour\ of\ crisps.\ \ \r\n
+comment2.params=
+comment2.target=void\ buyCrisps()
+comment2.text=\r\n\ Student\ buys\ a\ packet\ of\ crips\ if\ the\ student\ has\ enough\ money.\ \r\n\ Else\ prints\ out\ statement\ feedback\ to\ the\ user.\r\n
+comment3.params=
+comment3.target=void\ snackTime()
+comment3.text=\r\n\ Student\ buys\ a\ packet\ of\ crips\ if\ the\ student\ has\ enough\ money.\ \r\n\ Else\ prints\ out\ statement\ feedback\ to\ the\ user.\r\n
+numComments=4
